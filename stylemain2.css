@@ -569,15 +569,7 @@ body .table thead tr {
   }
 }
 
-/* Order ID */
-.order-id {
-  background-color: #4caf50;
-  color: #fff;
-  padding: 10px;
-  border-radius: 5px;
-  margin-top: 10px;
-  font-weight: bold;
-}
+
 
 .service-info {
   padding: 20px;
