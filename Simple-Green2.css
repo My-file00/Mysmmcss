@@ -31,12 +31,8 @@ body {
 
 body {
   margin: 0;
-  font-family: 'Inter', system-ui, Segoe UI, Roboto, Arial, sans-serif;
-  color: var(--text-color);
-  background:
-    radial-gradient(900px 500px at 15% -10%, color-mix(in srgb, var(--primary2-color) 25%, transparent) 0%, transparent 60%),
-    radial-gradient(900px 600px at 110% 120%, color-mix(in srgb, var(--four-color) 22%, transparent) 0%, transparent 60%),
-    var(--primary-color);
+   color: var(--text-color);
+  
 }
 
 
@@ -2452,7 +2448,6 @@ textarea.form-control {
 .neo2-wrap {
   padding: 18px !important;
   background: var(--neo2-bg) !important;
-  font-family: system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial !important;
   color: var(--neo2-text) !important
 }
 
@@ -3158,7 +3153,6 @@ textarea.form-control {
   padding: 18px !important;
   background: #f7fbff !important;
   color: #16212e !important;
-  font-family: system-ui, -apple-system, Segoe UI, Roboto, Inter, Arial !important
 }
 
 /* Cards */
@@ -3900,8 +3894,7 @@ textarea.form-control {
   padding: 16px !important;
   background: #f6fbff !important;
   color: #17212b !important;
-  font-family: system-ui, Inter, Segoe UI, Roboto, Arial !important
-}
+  }
 
 /* Cards */
 .aff-card {
